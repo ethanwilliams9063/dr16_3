@@ -12,6 +12,13 @@
     "react-dom": "18.2.0",
     "styled-jsx": "5.1.1",
     "@plasmicapp/host": "1.0.0"
+    "@plasmicapp/react-web": "^1.0.0",
+    "@plasmicpkgs/plasmic-basic-components": "latest",
+    "@plasmicpkgs/plasmic-rich-components": "latest",
+    "@plasmicpkgs/antd5": "latest",
+    "@ant-design/icons": "^5",
+    "@ant-design/pro-components": "^2"
+
   },
   "devDependencies": {
     "autoprefixer": "10.4.19",
